@@ -53,3 +53,9 @@
     Benefits of Pre-trained Models: +
     Limitations and Considerations: +
 
+## Bogdan
+08.12.24-15.12.24:
+1. Разобрать на https://roadmap.sh/mlops Cloud Computing
+2. Построчно понимать, свое БДЗ по информатике
+3. Принять участие на открытом ковре(самбо)
+4. Сдать кр по матану
